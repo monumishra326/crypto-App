@@ -1,8 +1,8 @@
 # Cryptocurrency Tracker with React JS, Material UI and Chart JS
 
 
-## Demo
-#### Here is a working live demo :  
+## Demo 
+#### Here is a working live demo :  https://crypto-app-seven-delta.vercel.app/
 
 ## Built with 
 
